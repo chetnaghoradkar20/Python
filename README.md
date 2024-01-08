@@ -1,7 +1,5 @@
 # Python
 
-Sure, here's a breakdown of the code and its functionalities:
-
 ### Project Overview:
 The provided code is a Python script utilizing the Selenium library for web automation. Its primary objective is to navigate a website (https://ABC.com), log in, interact with various dropdowns and filters, capture screenshots, and compile these screenshots into PDFs based on different filter combinations.
 
